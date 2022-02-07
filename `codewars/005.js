@@ -13,5 +13,5 @@ function points(games) {
         }
     }
     return point;
-    // your code here
+
 }
