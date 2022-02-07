@@ -8,7 +8,5 @@ function getCount(str) {
             }
         }
     }
-    // enter your majic here
-
     return vowelsCount;
 }
